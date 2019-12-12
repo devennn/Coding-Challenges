@@ -1,4 +1,4 @@
-# Coding-Challenges
+# Coding Challenges
 
 Some of coding challenges answers
 
