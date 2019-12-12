@@ -2,7 +2,7 @@
 
 Some of coding challenges answers
 
-## Kaggle Submissions
+## Kaggle
 
 Learning Data science and Machine learning Algorithm.
 
