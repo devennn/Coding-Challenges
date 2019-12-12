@@ -19,29 +19,29 @@ Learning Data science and Machine learning Algorithm.
 | Digit Recognizer  | 97           |
 | kannada-mnist     | 95           |
 
-## Hacker Rank (C Programming)
+## Hacker Rank
 Some Hacker Rank Solutions for fun programming challenge.
 Profile [devennn](https://www.hackerrank.com/devennn).
 
-|         Title         |
-|-----------------------|
-| A Very Big Sum        |
-| Apple And Orrange     |
-| Birthday Cake Candles |
-| Between Two Sets      |
-| Birthday Chocolate    |
-| Breaking The Records  |
-| Compare The Triplets  |
-| Diagonal Difference   |
-| Forming Magic Square  |
-| Grading Students      |
-| kangaroo              |
-| Min Max Sum           |
-| Plus Minus            |
-| Sock Merchant         |
-| Staircase             |
-| The Birthday Bar      |
-| Time Conversion       |
-|The Hurdle Race        |
-|CLimbing The Leaderboard|
-|Divisible Sum Pairs    |
+|         Title         |    Language    |
+|-----------------------|----------------|
+| A Very Big Sum        | C |
+| Apple And Orrange     | C |
+| Birthday Cake Candles | C |
+| Between Two Sets      | C |
+| Birthday Chocolate    | C |
+| Breaking The Records  | C |
+| Compare The Triplets  | C |
+| Diagonal Difference   | C |
+| Forming Magic Square  | C |
+| Grading Students      | C |
+| kangaroo              | C |
+| Min Max Sum           | C |
+| Plus Minus            | C |
+| Sock Merchant         | C |
+| Staircase             | C |
+| The Birthday Bar      | C |
+| Time Conversion       | C |
+|The Hurdle Race        | C |
+|CLimbing The Leaderboard| C |
+|Divisible Sum Pairs    | C |
