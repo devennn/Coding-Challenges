@@ -17,7 +17,8 @@ Learning Data science and Machine learning Algorithm.
 |-------------------|--------------|
 | Titanic           | 78           |
 | Digit Recognizer  | 97           |
-| kannada-mnist     | 95           |
+| kannada MNIST     | 95           |
+| disaster Tweets   | 79           |
 
 ## Hacker Rank
 Some Hacker Rank Solutions for fun programming challenge.
